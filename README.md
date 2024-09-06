@@ -5,6 +5,7 @@ Game Hub is a web application that allows users to explore a wide range of video
 
 Features:
 -Search games by title or keyword.
+-Change mode (dark/light).
 -Advanced filtering options by genre, platform, and popularity.
 -Sort games by rating, release date, and popularity.
 -View detailed information on individual games, including supported platforms, ratings, and more.
