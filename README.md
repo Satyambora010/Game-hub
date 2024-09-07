@@ -1,4 +1,4 @@
-<img width="1469" alt="GameHub1" src="https://github.com/user-attachments/assets/9e9c7b88-048b-4408-bb1d-8541d1f4f00b">
+<img width="1000" alt="GameHub1" src="https://github.com/user-attachments/assets/9e9c7b88-048b-4408-bb1d-8541d1f4f00b">
 
 
 Game Hub is a web application that allows users to explore a wide range of video games and retrieve detailed information about them. Users can search for games, filter by genres, platforms, popularity, and more. The app provides insights into game ratings, popularity, supported platforms, and other game-specific details.
